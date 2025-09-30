@@ -9,7 +9,7 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-      # use this repo: git@github.com:actions/first-interaction.git
+      # use this repo: git@github.com:actions/first-interaction.git 
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
