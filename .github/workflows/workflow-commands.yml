@@ -1,7 +1,7 @@
 name: "Workflow Commands"
 
 # event trigger
-on:
+on: ['push']
 
 jobs:
   my-job: 
