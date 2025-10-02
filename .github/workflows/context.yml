@@ -1,0 +1,13 @@
+name: Context Examples
+
+# event trigger
+on: push
+
+jobs:
+  my-context:
+    runs-on: ubuntu-latest
+    steps:
+      env:
+        MY_ACTION: ${{github.action}}
+      - name: "my step"
+        run: echo "Hello! $MY_ACTION"
