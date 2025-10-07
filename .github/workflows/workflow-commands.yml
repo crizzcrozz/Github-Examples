@@ -1,4 +1,4 @@
-name: "Workflow Commands"
+name: "TEST-EINS"
 
 # event trigger
 on: ['push']
