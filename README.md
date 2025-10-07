@@ -5,6 +5,8 @@ A repo containing GitHub for programmatic examples
 
 [![TEST-EINS](https://github.com/crizzcrozz/Github-Examples/actions/workflows/workflow-commands.yml/badge.svg)](https://github.com/crizzcrozz/Github-Examples/actions/workflows/workflow-commands.yml)
 
+[![TEST-EINS](https://github.com/crizzcrozz/Github-Examples/actions/workflows/workflow-commands.yml/badge.svg?event=push)](https://github.com/crizzcrozz/Github-Examples/actions/workflows/workflow-commands.yml)
+
 
 
 # github statusbadge TEST ZWEI
